@@ -2,7 +2,8 @@
 .appVersion = "1352";
 DisplayStrings = (
 abcdefghijklmnopqrstuvwxyz,
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
+ABCDEFGHIJKLMNOPQRSTUVWXYZ,
+"HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012HTVFDYCGOOMALYAVROYONMJMVWATHBOCDEFGHIJKOLMHNOPOQRSOTUVWOXOYZ\012\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space Tiene/space TaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN/space Brush/space Ban/space Bon/space Beale/space Lio/space Volcan/space Viernes/space nnenoeoo/space nnrnoroo"
 );
 copyright = "Copyright 2004 The Kolker Brush Project Authors (https://github.com/googlefonts/kolker-brush)";
 customParameters = (
@@ -2353,7 +2354,7 @@ unicode = 01FC;
 },
 {
 glyphname = B;
-lastChange = "2021-11-18 14:42:31 +0000";
+lastChange = "2021-11-18 15:34:51 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -4296,7 +4297,7 @@ unicode = 1EBC;
 },
 {
 glyphname = F;
-lastChange = "2021-11-18 14:42:31 +0000";
+lastChange = "2021-11-18 15:37:50 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -8281,7 +8282,7 @@ unicode = 0152;
 },
 {
 glyphname = P;
-lastChange = "2021-11-18 14:42:31 +0000";
+lastChange = "2021-11-18 15:32:34 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -10372,7 +10373,7 @@ unicode = 018F;
 },
 {
 glyphname = T;
-lastChange = "2021-11-18 14:42:31 +0000";
+lastChange = "2021-11-18 15:39:55 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -15364,7 +15365,7 @@ unicode = 01C6;
 },
 {
 glyphname = e;
-lastChange = "2021-11-18 14:42:31 +0000";
+lastChange = "2021-11-18 15:40:09 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -55661,8 +55662,29 @@ weightClass = Normal;
 );
 kerning = {
 "01BDBA83-373F-4081-A4FB-32E4C1670F2F" = {
+B = {
+a = -49;
+e = -42;
+o = -20;
+r = -33;
+};
+F = {
+a = -23;
+};
 K = {
 o = -162;
+};
+P = {
+a = -110;
+e = -30;
+};
+T = {
+a = -20;
+u = -33;
+};
+e = {
+r = -20;
+y = -21;
 };
 l = {
 k = 25;
