@@ -126,7 +126,7 @@ name = liga;
 },
 {
 automatic = 1;
-code = "sub E by E.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012sub d by d.ss01;\012";
+code = "sub E by E.ss01;\012sub L by L.ss01;\012sub M by M.ss01;\012";
 name = salt;
 },
 {
@@ -149,7 +149,7 @@ capHeight = 480;
 customParameters = (
 {
 name = typoAscender;
-value = 650;
+value = 750;
 },
 {
 name = typoDescender;
@@ -160,20 +160,24 @@ name = typoLineGap;
 value = 0;
 },
 {
-name = winAscent;
-value = 650;
-},
-{
-name = winDescent;
-value = 350;
-},
-{
 name = hheaAscender;
-value = 650;
+value = 750;
 },
 {
 name = hheaDescender;
 value = -350;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 750;
+},
+{
+name = winDescent;
+value = 350;
 },
 {
 name = strikeoutPosition;
@@ -55669,5 +55673,5 @@ manufacturer = "Robert E. Leuschke";
 manufacturerURL = www.typesetit.com;
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 3;
 }
