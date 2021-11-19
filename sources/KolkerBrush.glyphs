@@ -8,7 +8,7 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "nono.nono,nono!non¡non?non\012n¿non·/bullet *#///backslash/periodcentered.loclCAT (nonon){non}[non]-­/endash/emdash/hyphentwo _/quotesinglbase you/quotedblbase/quotedblleft I'm/quoteleft ron/quoteright «nono»/guilsinglleft non/guilsinglright \012\"'/leftanglebracket-math 2030/rightanglebracket-math",
 "nonram@gmail.com\012nonoo@oono",
 "paral/periodcentered.loclCAT",
-"L/periodcentered.loclCAT.case L"
+"b.\012b,\012e.\012e,\012f.\012f,\012¿f\012f?\012f!\012g.\012g,\012j.\012j,\012k/endash \012o.\012o,\012p.\012p,\012q.\012r.\012r,\012r-\012s.\012s,\012s-\012t-\012v.\012v,\012w.\012w,\012y.\012y,\012y-y\012A-A\012D.\012D,\012F.\012F,\012F;\012F:\012F-\012J.\012J,\012J;\012J:\012J-J\012K-\012-M\012O.\012O,\012P.\012P,\012P-\012R-\012T.\012T,\012T;\012T:\012T-T\012U.\012U,\012U-\012V.\012V,\012V;\012V:\012V-V\012¡V\012W.\012W,\012W;\012W:\012W-W\012X-X\012Y.\012Y,\012Y;\012Y:\012Y-Y\012-Z\012\012"
 );
 classes = (
 {
@@ -31025,7 +31025,7 @@ unicode = 002C;
 },
 {
 glyphname = colon;
-lastChange = "2021-11-19 02:13:36 +0000";
+lastChange = "2021-11-19 02:39:11 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -31251,7 +31251,7 @@ unicode = 2026;
 },
 {
 glyphname = exclam;
-lastChange = "2021-11-19 02:14:32 +0000";
+lastChange = "2021-11-19 02:40:16 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -31729,7 +31729,7 @@ unicode = 00A1;
 },
 {
 glyphname = question;
-lastChange = "2021-11-19 02:15:33 +0000";
+lastChange = "2021-11-19 02:40:23 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -34156,7 +34156,7 @@ unicode = 005D;
 },
 {
 glyphname = hyphen;
-lastChange = "2021-11-18 14:42:31 +0000";
+lastChange = "2021-11-19 02:40:01 +0000";
 layers = (
 {
 layerId = "01BDBA83-373F-4081-A4FB-32E4C1670F2F";
@@ -34164,48 +34164,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"56 152 LINE",
-"59 150 LINE",
-"67 154 LINE",
-"89 152 OFFCURVE",
-"111 153 OFFCURVE",
-"131 157 CURVE",
-"141 153 LINE",
-"156 155 LINE",
-"157 165 OFFCURVE",
-"176 163 OFFCURVE",
-"184 178 CURVE",
-"189 173 LINE",
-"193 184 OFFCURVE",
-"203 192 OFFCURVE",
-"213 197 CURVE",
-"211 202 LINE",
-"197 200 OFFCURVE",
-"163 202 OFFCURVE",
-"152 198 CURVE",
-"146 201 LINE",
-"105 202 LINE SMOOTH",
-"79 202 OFFCURVE",
-"51 199 OFFCURVE",
-"24 198 CURVE",
-"22 201 LINE",
-"22 191 LINE SMOOTH",
-"22 177 OFFCURVE",
-"35 151 OFFCURVE",
-"45 142 CURVE"
+"176 152 LINE",
+"179 150 LINE",
+"187 154 LINE",
+"209 152 OFFCURVE",
+"231 153 OFFCURVE",
+"251 157 CURVE",
+"261 153 LINE",
+"276 155 LINE",
+"277 165 OFFCURVE",
+"296 163 OFFCURVE",
+"304 178 CURVE",
+"309 173 LINE",
+"313 184 OFFCURVE",
+"323 192 OFFCURVE",
+"333 197 CURVE",
+"331 202 LINE",
+"317 200 OFFCURVE",
+"283 202 OFFCURVE",
+"272 198 CURVE",
+"266 201 LINE",
+"225 202 LINE SMOOTH",
+"199 202 OFFCURVE",
+"171 199 OFFCURVE",
+"144 198 CURVE",
+"142 201 LINE",
+"142 191 LINE SMOOTH",
+"142 177 OFFCURVE",
+"155 151 OFFCURVE",
+"165 142 CURVE"
 );
 },
 {
 closed = 1;
 nodes = (
-"221 197 LINE",
-"226 197 LINE",
-"228 201 LINE",
-"221 202 LINE"
+"341 197 LINE",
+"346 197 LINE",
+"348 201 LINE",
+"341 202 LINE"
 );
 }
 );
-width = 237;
+width = 357;
 }
 );
 note = hyphen;
@@ -58497,6 +58497,7 @@ I = {
 quotesingle = 40;
 };
 K = {
+hyphen = -50;
 o = -162;
 };
 P = {
@@ -58507,9 +58508,20 @@ T = {
 a = -20;
 u = -33;
 };
+W = {
+hyphen = 70;
+};
+Y = {
+colon = 0;
+hyphen = 0;
+};
 e = {
 r = -20;
 y = -21;
+};
+f = {
+exclam = 50;
+question = 90;
 };
 l = {
 k = 25;
