@@ -1,8 +1,8 @@
-# Petemoss
+# Kolker Brush
 
-Petemoss is a semi-calligraphic brush script. It is inspired by the forms created using a Pentel™ color brush.
+Kolker Brush is a weighty hand lettered brush script. As with any script, it is never recommended to use all caps when editing copy. Use Kolker Brush for situations that require a bit of punch.
 
-![Sample Image](Documentation/image1.png)
+![Sample Image](documentation/image1.png)
 
 ## Building the Fonts
 
